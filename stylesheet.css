@@ -1,6 +1,5 @@
-/* Global Styles */
 body {
-  background: url("./res/starry_night.jpg") center/cover fixed;
+  background: url("./res/starry_night.jpg") center top 60px / cover fixed;
   background-blend-mode: darken;
   animation: animatedBackground 30s linear infinite;
   color: #fff;
@@ -10,6 +9,7 @@ body {
   display: flex;
   flex-direction: column;
 }
+
 
 @keyframes animatedBackground {
   from { background-position: 0 0; }
