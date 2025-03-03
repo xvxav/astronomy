@@ -5,7 +5,7 @@ body {
   animation: animatedBackground 30s linear infinite;
   color: #fff;
   margin: 0;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -29,6 +29,7 @@ body {
   font-size: 2rem;
   color: #ddd;
   margin: 0;
+  font-family: "Times New Roman", Georgia, serif;
 }
 
 #title a {
@@ -39,6 +40,7 @@ body {
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.1);
   transition: 0.3s;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 #title a:hover {
@@ -77,6 +79,7 @@ body {
   font-size: 1.2rem;
   color: #eeeeee;
   transition: 0.3s;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .page:hover {
@@ -95,6 +98,7 @@ body {
   padding: 15px 0;
   font-size: 1rem;
   margin-top: auto;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 /* Responsive Design */

@@ -1,4 +1,4 @@
-# Astronomy Toolkit
+# Astronomy Simulations
 
 ![Skychart Photo](http://i.imgur.com/JPqbVw6.png)
 
