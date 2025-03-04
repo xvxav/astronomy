@@ -1,7 +1,7 @@
 body {
   background: url("assets/images/astronomy.jpg") center top 60px / cover fixed;
   background-blend-mode: darken;
-  animation: animatedBackground 300s linear infinite;
+  animation: animatedBackground 40s linear infinite;
   color: #fff;
   margin: 0;
   font-family: "Inter", Arial, sans-serif;
