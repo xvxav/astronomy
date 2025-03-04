@@ -1,5 +1,5 @@
 body {
-  background: url("src/assets/astronomy.jpg") center top 60px / cover fixed;
+  background: url("assets/images/astronomy.jpg") center top 60px / cover fixed;
   background-blend-mode: darken;
   animation: animatedBackground 30s linear infinite;
   color: #fff;
