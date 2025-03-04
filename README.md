@@ -28,5 +28,5 @@
 
 ### Used libraries
 1. [THREE.js](https://github.com/mrdoob/three.js/)
-2. [JQuery](https://github.com/jquery/jquery)
+2. [JQuery](https://github.com/jquery/jquery) 
 3. [randomColor](https://github.com/davidmerfield/randomColor)
