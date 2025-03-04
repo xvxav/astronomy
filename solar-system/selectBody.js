@@ -1,5 +1,5 @@
 function getSearchResults(searchQuerry){
-  $.getJSON('../cgi-bin/getBody.py', { name: searchQuerry }, function(data) {
+  $.getJSON('../lib/cgi-bin/getBody.py', { name: searchQuerry }, function(data) {
     $.each(data, function(index, element) {
       var body = new CelestialBody(element.name, element.semiMajorAxis, element.eccentricity,
          element.inclination, element.longitudeOfNode, element.longitudeOfPericenter, element.meanAnomaly2000);
